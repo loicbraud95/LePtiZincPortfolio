@@ -1,4 +1,4 @@
-<h2><img src="https://i.imgur.com/hjfJ8gt.png" height="10%" width="10%"/> Le pti zinc  </h2>
+<h2><img src="https://i.imgur.com/hjfJ8gt.png" height="10%" width="10%"/> Le Pti Zinc  </h2>
 
 <h3>🛠️ Outils</h3>
 
@@ -23,7 +23,7 @@
 
 <h3>👾 À propos du jeu</h3>
 
-- Le jeu est basé sur un système de capture de points : l’équipe attaquante doit capturer trois points différents pour remporter la partie, tandis que l’équipe défenseuse doit repousser les assauts.
+- Le jeu est basé sur un système de capture de points : l’équipe attaquante doit capturer trois points différents pour remporter la partie, tandis que l’équipe en défense doit repousser les assauts.
 - Le joueur peut choisir entre deux personnages différents.
 - Le personnage peut sauter, courir, viser et tirer.
 
